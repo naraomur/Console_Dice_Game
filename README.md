@@ -1,5 +1,6 @@
 # Console_Dice_Game
-Recommend to open this project in Eclipse IDE. 
+
+**Recommend to open this project in Eclipse IDE.** 
 
 ## Project gradually build level by level adding up new functionality
 **1. Level 1**
