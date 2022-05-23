@@ -13,12 +13,12 @@
    - ![image](https://user-images.githubusercontent.com/64947293/169842791-26811bbf-6f42-4635-a9ef-3d993b060d75.png)
    - ![image](https://user-images.githubusercontent.com/64947293/169842915-54d60db7-2413-4240-ab48-7810deab7c91.png)
 
-**4. Level 3**
+**3. Level 3**
    - Program holds not one round, but three is held. Thus, user and computer must roll the dice alternately three times each. At the end of each round, data on the difference in the score of the players is displayed. After the last round, a table with the results of the entire game comes out.
    - ![image](https://user-images.githubusercontent.com/64947293/169843759-17d3c662-a6cc-4419-8b25-365b8e035113.png)
    - ![image](https://user-images.githubusercontent.com/64947293/169843829-76f8b5af-3ba1-4fc8-be47-f3f1b1eeba41.png)
 
-**6. Level 4 **
+**4. Level 4 **
    - At this level after three rounds the user is asked if he wants to play again:
    - ![image](https://user-images.githubusercontent.com/64947293/169844170-36457f53-16db-4b0f-9c8e-60cbd8e4a320.png)
    - In case the user agrees, the game starts again. In case of failure, the program ends its work.
